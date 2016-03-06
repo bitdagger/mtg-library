@@ -12,3 +12,6 @@ Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 ehthumbs.db
+
+# Ignore the default db file
+default.db
