@@ -1,0 +1,14 @@
+# Ignore hidden files
+.*
+
+# Don't ignore the ignore file
+!.gitignore
+
+# Ignore temporary files
+*~
+
+# Ignore annoying windows files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
